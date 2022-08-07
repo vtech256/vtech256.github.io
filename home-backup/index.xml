@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home-backups | Victor Naidu</title>
-    <link>https://example.com/home-backup/</link>
-      <atom:link href="https://example.com/home-backup/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://vtech256.github.io/home-backup/</link>
+      <atom:link href="https://vtech256.github.io/home-backup/index.xml" rel="self" type="application/rss+xml" />
     <description>Home-backups</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://vtech256.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Home-backups</title>
-      <link>https://example.com/home-backup/</link>
+      <link>https://vtech256.github.io/home-backup/</link>
     </image>
     
     <item>
       <title>Academic Template</title>
-      <link>https://example.com/home-backup/demo/</link>
+      <link>https://vtech256.github.io/home-backup/demo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/home-backup/demo/</guid>
+      <guid>https://vtech256.github.io/home-backup/demo/</guid>
       <description>&lt;h2 id=&#34;-welcome-to-the-academic-template&#34;&gt;👋 Welcome to the Academic Template&lt;/h2&gt;
 &lt;p&gt;The Wowchemy &lt;strong&gt;Academic Resumé Template&lt;/strong&gt; for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.app&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the showcase&lt;/a&gt;.&lt;/p&gt;
@@ -47,65 +47,65 @@
     
     <item>
       <title>Skills</title>
-      <link>https://example.com/home-backup/skills/</link>
+      <link>https://vtech256.github.io/home-backup/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/home-backup/skills/</guid>
+      <guid>https://vtech256.github.io/home-backup/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>https://example.com/home-backup/experience/</link>
+      <link>https://vtech256.github.io/home-backup/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/home-backup/experience/</guid>
+      <guid>https://vtech256.github.io/home-backup/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accomplish&amp;shy;ments</title>
-      <link>https://example.com/home-backup/accomplishments/</link>
+      <link>https://vtech256.github.io/home-backup/accomplishments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/home-backup/accomplishments/</guid>
+      <guid>https://vtech256.github.io/home-backup/accomplishments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>https://example.com/home-backup/posts/</link>
+      <link>https://vtech256.github.io/home-backup/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/home-backup/posts/</guid>
+      <guid>https://vtech256.github.io/home-backup/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://example.com/home-backup/projects/</link>
+      <link>https://vtech256.github.io/home-backup/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/home-backup/projects/</guid>
+      <guid>https://vtech256.github.io/home-backup/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://example.com/home-backup/talks/</link>
+      <link>https://vtech256.github.io/home-backup/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/home-backup/talks/</guid>
+      <guid>https://vtech256.github.io/home-backup/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Featured Publications</title>
-      <link>https://example.com/home-backup/featured/</link>
+      <link>https://vtech256.github.io/home-backup/featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/home-backup/featured/</guid>
+      <guid>https://vtech256.github.io/home-backup/featured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>https://example.com/home-backup/publications/</link>
+      <link>https://vtech256.github.io/home-backup/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/home-backup/publications/</guid>
+      <guid>https://vtech256.github.io/home-backup/publications/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Quickly discover relevant content by &lt;a href=&#34;./publication/&#34;&gt;filtering publications&lt;/a&gt;.
@@ -116,9 +116,9 @@
     
     <item>
       <title>Popular Topics</title>
-      <link>https://example.com/home-backup/tags/</link>
+      <link>https://vtech256.github.io/home-backup/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/home-backup/tags/</guid>
+      <guid>https://vtech256.github.io/home-backup/tags/</guid>
       <description></description>
     </item>
     
